@@ -59,6 +59,7 @@
 		"vite": "7.1.8",
 		"vite-tsconfig-paths": "5.1.4",
 		"wrangler": "3.28.1"
+		"@builder.io/qwik-city": "^1.8.0"
 	},
 	"dependencies": {
 		"@graphql-codegen/typescript-generic-sdk": "^4.0.2",
@@ -67,5 +68,6 @@
 		"graphql": "^16.11.0",
 		"graphql-tag": "^2.12.6",
 		"zod": "^4.1.11"
+		"@builder.io/qwik-city": "^1.8.0"
 	}
 }
